@@ -1,2 +1,1 @@
-# Coursera-course
-Interfacing with Arduino
+Coursera | Interfacing with the Arduino | University of California, Irvine | Assignment
